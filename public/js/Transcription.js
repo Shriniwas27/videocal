@@ -9,6 +9,7 @@ class Transcription {
             ['Català', ['ca-ES']],
             ['Čeština', ['cs-CZ']],
             ['Deutsch', ['de-DE']],
+            ['Hindi',['hi-IN']],
             [
                 'English',
                 ['en-AU', 'Australia'],
